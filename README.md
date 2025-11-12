@@ -1,16 +1,24 @@
-# lab1_app
+# Flutter Lab 1 - Распоред за испити
 
-A new Flutter project.
+**Индекс:** 221159
+**Предмет:** Мобилни информациски системи
+**Платформа:** Flutter
+**Опис:** Апликација за приказ на распоред за испити
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+**Преглед на апликацијата**
 
-A few resources to get you started if this is your first Flutter project:
+- Прикажува листа од сите испити со предмет, датум, време и лабораторија.
+- Испитите се сортирани хронолошки.
+- Минатите испити се обележани со различна боја и икона.
+- При клик на испит се отвора детална страна со преостанато време или порака дека испитот е поминат.
+- На дното има преглед со вкупен број и број на поминати испити.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+
+| Листа на испити | Детали за поминат испит | Детали за претстоен испит |
+|------------------|--------------------------|----------------------------|
+| ![List](screenshots/list.png) | ![Past](screenshots/past.png) | ![Future](screenshots/future.png) |
