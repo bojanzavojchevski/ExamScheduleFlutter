@@ -17,8 +17,8 @@
 
 ---
 
-## Screenshots
 
-| Листа на испити | Детали за поминат испит | Детали за претстоен испит |
-|------------------|--------------------------|----------------------------|
-| ![List](screenshots/list.png) | ![Past](screenshots/past.png) | ![Future](screenshots/future.png) |
+## Screenshots
+![Exam List](screenshots/list.png)
+![Exam Detail Passed](screenshots/past.png)
+![Exam Detail Upcoming](screenshots/future.png)
