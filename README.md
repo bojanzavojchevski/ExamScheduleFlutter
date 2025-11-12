@@ -1,9 +1,9 @@
 # Flutter Lab 1 - Распоред за испити
 
-**Индекс:** 221159
-**Предмет:** Мобилни информациски системи
-**Платформа:** Flutter
-**Опис:** Апликација за приказ на распоред за испити
+**Index:** 221159  
+**Subject:** Мобилни информациски системи  
+**Platform:** Flutter  
+**Description:** Апликација за приказ на распоред за испити  
 
 ---
 
@@ -17,7 +17,9 @@
 
 ---
 
+
 ## Screenshots
-![Exam List](screenshots/list.png)
-![Exam Detail Passed](screenshots/past.png)
-![Exam Detail Upcoming](screenshots/future.png)
+
+| Exam List | Exam Detail Passed | Exam Detail Upcoming |
+|------------------|--------------------------|----------------------------|
+| ![List](screenshots/list.png) | ![Past](screenshots/past.png) | ![Future](screenshots/future.png) |
