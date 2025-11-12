@@ -1,9 +1,12 @@
-# Exclude platform-specific generated code from GitHub language stats
-android/* linguist-detectable=false
-ios/* linguist-detectable=false
-macos/* linguist-detectable=false
-windows/* linguist-detectable=false
-linux/* linguist-detectable=false
+# Exclude platform-specific generated code from language stats
+android/** linguist-vendored
+ios/** linguist-vendored
+macos/** linguist-vendored
+windows/** linguist-vendored
+linux/** linguist-vendored
+web/** linguist-vendored
+test/** linguist-vendored
 
-# Count only Dart code from lib/ as the main language
-lib/* linguist-language=Dart
+# Count Dart as the main language
+*.dart linguist-language=Dart
+lib/** linguist-language=Dart
